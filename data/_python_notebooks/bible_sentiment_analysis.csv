@@ -1,0 +1,13 @@
+book,chapter,text_length,positive,negative,neutral,compound,sentiment_label,text_preview
+Genesis,1,140,0.228,0.062,0.71,0.6597,Positive,"In the beginning God created the heaven and the earth. And the earth was without form, and void; and..."
+Genesis,2,132,0.161,0.0,0.839,0.5859,Positive,"Thus the heavens and the earth were finished, and all the host of them. And on the seventh day God e..."
+Genesis,3,182,0.104,0.0,0.896,0.4939,Positive,Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said...
+Psalms,1,143,0.119,0.086,0.795,0.2732,Positive,"Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinner..."
+Psalms,23,125,0.0,0.048,0.952,-0.0572,Negative,The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me...
+Psalms,91,99,0.0,0.0,1.0,0.0,Neutral,He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
+Matthew,1,81,0.0,0.0,1.0,0.0,Neutral,"The book of the generation of Jesus Christ, the son of David, the son of Abraham."
+Matthew,5,126,0.416,0.157,0.427,0.8658,Positive,Blessed are the poor in spirit: for theirs is the kingdom of heaven. Blessed are they that mourn: fo...
+Matthew,6,118,0.231,0.0,0.769,0.765,Positive,"Our Father which art in heaven, Hallowed be thy name. Thy kingdom come, Thy will be done in earth, a..."
+Revelation,1,122,0.091,0.0,0.909,0.2732,Positive,"The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must..."
+Revelation,21,125,0.201,0.067,0.732,0.6597,Positive,And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; a...
+Revelation,22,118,0.17,0.0,0.83,0.5719,Positive,"And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of Go..."

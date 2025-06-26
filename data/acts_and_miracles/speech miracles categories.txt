@@ -1,0 +1,11 @@
+Announcement, Anointing, Answer, Assurance, Blessing, Calling, Communication, Declaration, Instruction, Promise, Warning
+
+Replace
+Call: Calling
+Blessings: Blessing
+Comfort: Assurance
+Commission: Command
+Curses: Judgment
+Direction: Guidance
+Guidance: Instruction
+Explanation: Communication

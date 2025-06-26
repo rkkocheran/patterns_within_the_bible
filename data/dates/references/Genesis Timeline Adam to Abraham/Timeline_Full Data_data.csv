@@ -1,0 +1,44 @@
+﻿Patriarch,Event,Ref,Calendar Year,Calendar Year+Length,Length,Years Since Creation,Meaning,Number of Records,Year
+Adam,Birth to Son's Birth,"Gen 5:3 ""And Adam lived an hundred and thirty years, and begat a son in his own likeness, and after his image; and called his name Seth:""",-4004,3874 BC,130,0,red,1,-4004
+Adam,Son's Birth to Death,"Gen 5:4-5 ""And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters: And all the days that Adam lived were nine hundred and thirty years: and he died.""",-3874,3074 BC,800,130,red,1,-3874
+Seth,Birth to Son's Birth,"Gen 5:6 ""And Seth lived an hundred and five years, and begat Enos:""",-3874,3769 BC,105,130,compensation,1,-3874
+Enos,Birth to Son's Birth,"Gen 5:9 ""And Enos lived ninety years, and begat Cainan:""",-3769,3679 BC,90,235,man,1,-3769
+Seth,Son's Birth to Death,"Gen 5:7-8 ""And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters: And all the days of Seth were nine hundred and twelve years: and he died.""",-3769,2962 BC,807,235,compensation,1,-3769
+Enos,Son's Birth to Death,"Gen 5:10-11 ""And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters: And all the days of Enos were nine hundred and five years: and he died.""",-3679,2864 BC,815,325,man,1,-3679
+Cainan,Birth to Son's Birth,"Gen 5:12 ""And Cainan lived seventy years and begat Mahalaleel:""",-3679,3609 BC,70,325,possession,1,-3679
+Cainan,Son's Birth to Death,"Gen 5:13-14 ""And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters: And all the days of Cainan were nine hundred and ten years: and he died.""",-3609,2769 BC,840,395,possession,1,-3609
+Mahalaleel,Birth to Son's Birth,"Gen 5:15 ""And Mahalaleel lived sixty and five years, and begat Jared:""",-3609,3544 BC,65,395,One who praises God,1,-3609
+Jared,Birth to Son's Birth,"Gen 5:18 ""And Jared lived an hundred sixty and two years, and he begat Enoch:""",-3544,3382 BC,162,460,descent,1,-3544
+Mahalaleel,Son's Birth to Death,"Gen 5:16-17 ""And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters: And all the days of Mahalaleel were eight hundred ninety and five years: and he died.""",-3544,2714 BC,830,460,One who praises God,1,-3544
+Enoch,Birth to Son's Birth,"Gen 5:21 ""And Enoch lived sixty and five years, and begat Methuselah:""",-3382,3317 BC,65,622,dedicated,1,-3382
+Jared,Son's Birth to Death,"Gen 5:19-20 ""And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters: And all the days of Jared were nine hundred sixty and two years: and he died.""",-3382,2582 BC,800,622,descent,1,-3382
+Enoch,Son's Birth to Death,"Gen 5:22-24 ""And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters: And all the days of Enoch were three hundred sixty and five years: And Enoch walked with God: and he was not; for God took him.""",-3317,3017 BC,300,687,dedicated,1,-3317
+Methuselah,Birth to Son's Birth,"Gen 5:25 ""And Methuselah lived an hundred eighty and seven years, and begat Lamech.""",-3317,3130 BC,187,687,man of the dart or his death shall bring judgment,1,-3317
+Lamech,Birth to Son's Birth,"Gen 5:28-29 ""And Lamech lived an hundred eighty and two years, and begat a son: And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the Lord hath cursed.""",-3130,2948 BC,182,874,powerful,1,-3130
+Methuselah,Son's Birth to Death,"Gen 5:26-27 ""And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters: And all the days of Methuselah were nine hundred sixty and nine years: and he died.""",-3130,2348 BC,782,874,man of the dart or his death shall bring judgment,1,-3130
+Lamech,Son's Birth to Death,"Gen 5:30-31 ""And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters: And all the days of Lamech were seven hundred seventy and seven years: and he died.""",-2948,2353 BC,595,1056,powerful,1,-2948
+Noah,Birth to Son's Birth,"Gen 5:32 ""And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.""
+Gen 7:6 ""And Noah was six hundred years old when the flood of waters was upon the earth.""
+Note: Noah's sone would not have all been born the same year. Shem would have been born when Noah was 502 given Gen 11:10.",-2948,2446 BC,502,1056,rest,1,-2948
+Noah,Son's Birth to Death,"Gen 9:28-29 ""And Noah lived after the flood three hundred and fifty years. And all the days of Noah were nine hundred and fifty years: and he died.""",-2446,1998 BC,448,1558,rest,1,-2446
+Shem,Birth to Son's Birth,"Gen 11:10 ""These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:""",-2446,2346 BC,100,1558,name,1,-2446
+Arphaxad,Birth to Son's Birth,"Gen 11:12 ""And Arphaxad lived five and thirty years, and begat Salah:""",-2346,2311 BC,35,1658,I shall fail as the breast,1,-2346
+Shem,Son's Birth to Death,"Gen 11:11 ""And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters.""",-2346,1846 BC,500,1658,name,1,-2346
+Arphaxad,Son's Birth to Death,"Gen 11:13 ""And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters.""",-2311,1908 BC,403,1693,I shall fail as the breast,1,-2311
+Salah,Birth to Son's Birth,"Gen 11:14 ""And Salah lived thirty years, and begat Eber:""",-2311,2281 BC,30,1693,sprout,1,-2311
+Eber,Birth to Son's Birth,"Gen 11:!6 ""And Eber lived four and thirty years, and begat Peleg:""",-2281,2247 BC,34,1723,the region beyond,1,-2281
+Salah,Son's Birth to Death,"Gen 11:15 ""And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters.""",-2281,1878 BC,403,1723,sprout,1,-2281
+Eber,Son's Birth to Death,"Gen 11:17 ""And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters.""",-2247,1817 BC,430,1757,the region beyond,1,-2247
+Peleg,Birth to Son's Birth,"Gen 11:18 ""And Peleg lived thirty years, and begat Reu:""",-2247,2217 BC,30,1757,division,1,-2247
+Peleg,Son's Birth to Death,"Gen 11:19 ""And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters.""",-2217,2008 BC,209,1787,division,1,-2217
+Reu,Birth to Son's Birth,"Gen 11:20 ""And Reu lived two and thirty years, and begat Serug:""",-2217,2185 BC,32,1787,friend,1,-2217
+Reu,Son's Birth to Death,"Gen 11:21 ""And Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters.""",-2185,1978 BC,207,1819,friend,1,-2185
+Serug,Birth to Son's Birth,"Gen 11:22 ""And Serug lived thirty years, and begat Nahor:""",-2185,2155 BC,30,1819,branch,1,-2185
+Nahor,Birth to Son's Birth,"Gen 11:24 ""And Nahor lived nine and twenty years, and begat Terah:""",-2155,2126 BC,29,1849,snorting,1,-2155
+Serug,Son's Birth to Death,"Gen 11:23 ""And Serug lived after he begat Nahor two hundred years, and begat sons and daughters.""",-2155,1955 BC,200,1849,branch,1,-2155
+Nahor,Son's Birth to Death,"Gen 11:25 ""And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters.""",-2126,2007 BC,119,1878,snorting,1,-2126
+Terah,Birth to Son's Birth,"Gen 11:26 ""And Terah lived seventy years, and begat Abram, Nahor, and Haran.""
+Note: Not all of Terah's sons would have been born the same year. In light of Acts 7:4 and Gen 12:4, Abram was born when Terah was 130 years old.",-2126,1996 BC,130,1878,station,1,-2126
+Abraham,Birth to Son's Birth,"Gen 21:5 ""And Abraham was an hundred years old, when his son Isaac was born unto him.""",-1996,1896 BC,100,2008,exalted father,1,-1996
+Terah,Son's Birth to Death,"Gen 11:32 ""And the days of Terah were two hundred and five years: and Terah died in Haran.""",-1996,1921 BC,75,2008,station,1,-1996
+Abraham,Son's Birth to Death,"Gen 25:7 ""And these are the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years.""",-1896,1821 BC,75,2108,exalted father,1,-1896
