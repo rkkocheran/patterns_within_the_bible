@@ -1,4 +1,4 @@
-Announcement, Anointing, Answer, Assurance, Blessing, Calling, Communication, Declaration, Instruction, Promise, Warning
+Announcement, Anointing, Answer, Assurance, Blessing, Calling, Communication, Declaration, Instruction, Promise, Warning, Law
 
 Replace
 Call: Calling
@@ -9,3 +9,4 @@ Curses: Judgment
 Direction: Guidance
 Guidance: Instruction
 Explanation: Communication
+Command: Instruction
