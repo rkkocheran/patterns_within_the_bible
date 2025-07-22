@@ -1,0 +1,1272 @@
+Book Number,Book Name,Chapter,Verse Start,Verse End,Location,Confidence
+1,Genesis,1,1,31,Primordial creation space,75%
+1,Genesis,2,1,3,Primordial creation space,75%
+1,Genesis,2,4,6,Earth (general),80%
+1,Genesis,2,7,25,Garden of Eden,70%
+1,Genesis,3,1,24,Garden of Eden,70%
+1,Genesis,4,1,16,East of Eden,65%
+1,Genesis,4,17,26,Land of Nod (east of Eden),60%
+1,Genesis,5,1,32,Antediluvian world (general),65%
+1,Genesis,6,1,22,Earth (pre-flood),80%
+1,Genesis,7,1,24,Earth (during flood),80%
+1,Genesis,8,1,22,Earth (post-flood),80%
+1,Genesis,9,1,29,Earth (post-flood),80%
+1,Genesis,10,1,32,Earth (nations dispersed),80%
+1,Genesis,11,1,9,Plain of Shinar (Babylon),85%
+1,Genesis,11,10,26,Mesopotamia,80%
+1,Genesis,11,27,32,Ur of the Chaldeans/Haran,90%
+1,Genesis,12,1,9,Canaan,90%
+1,Genesis,12,10,20,Egypt,95%
+1,Genesis,13,1,18,Canaan (Bethel Negeb),90%
+1,Genesis,14,1,24,Canaan and surrounding regions,85%
+1,Genesis,15,1,21,Canaan,90%
+1,Genesis,16,1,16,Canaan,90%
+1,Genesis,17,1,27,Canaan,90%
+1,Genesis,18,1,33,Canaan (Mamre Sodom region),85%
+1,Genesis,19,1,38,Sodom Gomorrah Zoar region,80%
+1,Genesis,20,1,18,Gerar (Philistine territory),85%
+1,Genesis,21,1,34,Beersheba region,85%
+1,Genesis,22,1,24,Land of Moriah,75%
+1,Genesis,23,1,20,Hebron (Canaan),90%
+1,Genesis,24,1,67,Mesopotamia/Canaan,85%
+1,Genesis,25,1,34,Canaan,85%
+1,Genesis,26,1,35,Gerar/Beersheba region,85%
+1,Genesis,27,1,46,Canaan,85%
+1,Genesis,28,1,22,Canaan (Bethel),85%
+1,Genesis,29,1,35,Paddan-aram (Mesopotamia),85%
+1,Genesis,30,1,43,Paddan-aram (Mesopotamia),85%
+1,Genesis,31,1,55,Paddan-aram/Journey to Canaan,80%
+1,Genesis,32,1,32,Journey to Canaan,80%
+1,Genesis,33,1,20,Canaan (Shechem),85%
+1,Genesis,34,1,31,Shechem (Canaan),85%
+1,Genesis,35,1,29,Canaan (Bethel Hebron),85%
+1,Genesis,36,1,43,Seir/Edom,85%
+1,Genesis,37,1,36,Canaan/Egypt,85%
+1,Genesis,38,1,30,Canaan (Judah's territory),85%
+1,Genesis,39,1,23,Egypt,95%
+1,Genesis,40,1,23,Egypt,95%
+1,Genesis,41,1,57,Egypt,95%
+1,Genesis,42,1,38,Egypt/Canaan,90%
+1,Genesis,43,1,34,Egypt/Canaan,90%
+1,Genesis,44,1,34,Egypt,95%
+1,Genesis,45,1,28,Egypt,95%
+1,Genesis,46,1,34,Journey to Egypt/Egypt,90%
+1,Genesis,47,1,31,Egypt (Goshen),90%
+1,Genesis,48,1,22,Egypt,95%
+1,Genesis,49,1,33,Egypt,95%
+1,Genesis,50,1,26,Egypt/Canaan,90%
+2,Exodus,1,1,22,Egypt,95%
+2,Exodus,2,1,10,Egypt (Nile River region),90%
+2,Exodus,2,11,15,Egypt,90%
+2,Exodus,2,16,22,Midian,85%
+2,Exodus,2,23,25,Egypt,95%
+2,Exodus,3,1,1,Midian (Mount Horeb/Sinai region),80%
+2,Exodus,3,2,22,Mount Horeb (also called Mount Sinai),85%
+2,Exodus,4,1,17,Mount Horeb (also called Mount Sinai),85%
+2,Exodus,4,18,20,Midian,85%
+2,Exodus,4,21,31,Journey from Midian to Egypt,80%
+2,Exodus,5,1,23,Egypt (Pharaoh's court and Hebrew work sites),90%
+2,Exodus,6,1,30,Egypt,90%
+2,Exodus,7,1,25,Egypt (Pharaoh's court and Nile River),90%
+2,Exodus,8,1,32,Egypt (throughout the land),90%
+2,Exodus,9,1,35,Egypt (throughout the land),90%
+2,Exodus,10,1,29,Egypt (throughout the land),90%
+2,Exodus,11,1,10,Egypt,90%
+2,Exodus,12,1,51,Egypt,90%
+2,Exodus,13,1,16,Egypt,90%
+2,Exodus,13,17,22,Wilderness journey (Egypt to Sinai),85%
+2,Exodus,14,1,31,Red Sea/Sea of Reeds,80%
+2,Exodus,15,1,21,Red Sea/Sea of Reeds,80%
+2,Exodus,15,22,27,Wilderness of Shur,80%
+2,Exodus,16,1,36,Wilderness of Sin,80%
+2,Exodus,17,1,16,Rephidim,80%
+2,Exodus,18,1,27,Rephidim,80%
+2,Exodus,19,1,25,Mount Sinai,85%
+2,Exodus,20,1,26,Mount Sinai,85%
+2,Exodus,21,1,36,Mount Sinai,85%
+2,Exodus,22,1,31,Mount Sinai,85%
+2,Exodus,23,1,33,Mount Sinai,85%
+2,Exodus,24,1,18,Mount Sinai,85%
+2,Exodus,25,1,40,Mount Sinai,85%
+2,Exodus,26,1,37,Mount Sinai,85%
+2,Exodus,27,1,21,Mount Sinai,85%
+2,Exodus,28,1,43,Mount Sinai,85%
+2,Exodus,29,1,46,Mount Sinai,85%
+2,Exodus,30,1,38,Mount Sinai,85%
+2,Exodus,31,1,18,Mount Sinai,85%
+2,Exodus,32,1,35,Mount Sinai,85%
+2,Exodus,33,1,23,Mount Sinai,85%
+2,Exodus,34,1,35,Mount Sinai,85%
+2,Exodus,35,1,35,Mount Sinai,85%
+2,Exodus,36,1,38,Mount Sinai,85%
+2,Exodus,37,1,29,Mount Sinai,85%
+2,Exodus,38,1,31,Mount Sinai,85%
+2,Exodus,39,1,43,Mount Sinai,85%
+2,Exodus,40,1,38,Mount Sinai,85%
+3,Leviticus,1,1,17,Mount Sinai,85%
+3,Leviticus,2,1,16,Mount Sinai,85%
+3,Leviticus,3,1,17,Mount Sinai,85%
+3,Leviticus,4,1,35,Mount Sinai,85%
+3,Leviticus,5,1,19,Mount Sinai,85%
+3,Leviticus,6,1,30,Mount Sinai,85%
+3,Leviticus,7,1,38,Mount Sinai,85%
+3,Leviticus,8,1,36,Mount Sinai,85%
+3,Leviticus,9,1,24,Mount Sinai,85%
+3,Leviticus,10,1,20,Mount Sinai,85%
+3,Leviticus,11,1,47,Mount Sinai,85%
+3,Leviticus,12,1,8,Mount Sinai,85%
+3,Leviticus,13,1,59,Mount Sinai,85%
+3,Leviticus,14,1,57,Mount Sinai,85%
+3,Leviticus,15,1,33,Mount Sinai,85%
+3,Leviticus,16,1,34,Mount Sinai,85%
+3,Leviticus,17,1,16,Mount Sinai,85%
+3,Leviticus,18,1,30,Mount Sinai,85%
+3,Leviticus,19,1,37,Mount Sinai,85%
+3,Leviticus,20,1,27,Mount Sinai,85%
+3,Leviticus,21,1,24,Mount Sinai,85%
+3,Leviticus,22,1,33,Mount Sinai,85%
+3,Leviticus,23,1,44,Mount Sinai,85%
+3,Leviticus,24,1,23,Mount Sinai,85%
+3,Leviticus,25,1,55,Mount Sinai,85%
+3,Leviticus,26,1,46,Mount Sinai,85%
+3,Leviticus,27,1,34,Mount Sinai,85%
+4,Numbers,1,1,54,Wilderness of Sinai,85%
+4,Numbers,2,1,34,Wilderness of Sinai,85%
+4,Numbers,3,1,51,Wilderness of Sinai,85%
+4,Numbers,4,1,49,Wilderness of Sinai,85%
+4,Numbers,5,1,31,Wilderness of Sinai,85%
+4,Numbers,6,1,27,Wilderness of Sinai,85%
+4,Numbers,7,1,89,Wilderness of Sinai,85%
+4,Numbers,8,1,26,Wilderness of Sinai,85%
+4,Numbers,9,1,23,Wilderness of Sinai,85%
+4,Numbers,10,1,10,Wilderness of Sinai,85%
+4,Numbers,10,11,36,Wilderness journey (Sinai to Paran),80%
+4,Numbers,11,1,35,Wilderness journey,80%
+4,Numbers,12,1,16,Wilderness journey,80%
+4,Numbers,13,1,33,Wilderness of Paran/Canaan reconnaissance,80%
+4,Numbers,14,1,45,Wilderness of Paran,80%
+4,Numbers,15,1,41,Wilderness journey,80%
+4,Numbers,16,1,50,Wilderness journey,80%
+4,Numbers,17,1,13,Wilderness journey,80%
+4,Numbers,18,1,32,Wilderness journey,80%
+4,Numbers,19,1,22,Wilderness journey,80%
+4,Numbers,20,1,29,Wilderness journey (Kadesh),80%
+4,Numbers,21,1,35,Wilderness journey (Transjordan),80%
+4,Numbers,22,1,41,Plains of Moab,85%
+4,Numbers,23,1,30,Plains of Moab,85%
+4,Numbers,24,1,25,Plains of Moab,85%
+4,Numbers,25,1,18,Plains of Moab,85%
+4,Numbers,26,1,65,Plains of Moab,85%
+4,Numbers,27,1,23,Plains of Moab,85%
+4,Numbers,28,1,31,Plains of Moab,85%
+4,Numbers,29,1,40,Plains of Moab,85%
+4,Numbers,30,1,16,Plains of Moab,85%
+4,Numbers,31,1,54,Plains of Moab,85%
+4,Numbers,32,1,42,Plains of Moab/Transjordan,85%
+4,Numbers,33,1,56,Wilderness journey summary,75%
+4,Numbers,34,1,29,Plains of Moab,85%
+4,Numbers,35,1,34,Plains of Moab,85%
+4,Numbers,36,1,13,Plains of Moab,85%
+5,Deuteronomy,1,1,46,Plains of Moab,85%
+5,Deuteronomy,2,1,37,Plains of Moab,85%
+5,Deuteronomy,3,1,29,Plains of Moab,85%
+5,Deuteronomy,4,1,49,Plains of Moab,85%
+5,Deuteronomy,5,1,33,Plains of Moab,85%
+5,Deuteronomy,6,1,25,Plains of Moab,85%
+5,Deuteronomy,7,1,26,Plains of Moab,85%
+5,Deuteronomy,8,1,20,Plains of Moab,85%
+5,Deuteronomy,9,1,29,Plains of Moab,85%
+5,Deuteronomy,10,1,22,Plains of Moab,85%
+5,Deuteronomy,11,1,32,Plains of Moab,85%
+5,Deuteronomy,12,1,32,Plains of Moab,85%
+5,Deuteronomy,13,1,18,Plains of Moab,85%
+5,Deuteronomy,14,1,29,Plains of Moab,85%
+5,Deuteronomy,15,1,23,Plains of Moab,85%
+5,Deuteronomy,16,1,22,Plains of Moab,85%
+5,Deuteronomy,17,1,20,Plains of Moab,85%
+5,Deuteronomy,18,1,22,Plains of Moab,85%
+5,Deuteronomy,19,1,21,Plains of Moab,85%
+5,Deuteronomy,20,1,20,Plains of Moab,85%
+5,Deuteronomy,21,1,23,Plains of Moab,85%
+5,Deuteronomy,22,1,30,Plains of Moab,85%
+5,Deuteronomy,23,1,25,Plains of Moab,85%
+5,Deuteronomy,24,1,22,Plains of Moab,85%
+5,Deuteronomy,25,1,19,Plains of Moab,85%
+5,Deuteronomy,26,1,19,Plains of Moab,85%
+5,Deuteronomy,27,1,26,Plains of Moab,85%
+5,Deuteronomy,28,1,68,Plains of Moab,85%
+5,Deuteronomy,29,1,29,Plains of Moab,85%
+5,Deuteronomy,30,1,20,Plains of Moab,85%
+5,Deuteronomy,31,1,30,Plains of Moab,85%
+5,Deuteronomy,32,1,52,Plains of Moab,85%
+5,Deuteronomy,33,1,29,Plains of Moab,85%
+5,Deuteronomy,34,1,12,Mount Nebo/Plains of Moab,85%
+6,Joshua,1,1,18,Plains of Moab/Jordan River,85%
+6,Joshua,2,1,24,Jericho,90%
+6,Joshua,3,1,17,Jordan River,85%
+6,Joshua,4,1,24,Jordan River/Gilgal,85%
+6,Joshua,5,1,15,Gilgal,85%
+6,Joshua,6,1,27,Jericho,90%
+6,Joshua,7,1,26,Ai/Achor Valley,85%
+6,Joshua,8,1,35,Ai/Bethel region,85%
+6,Joshua,9,1,27,Gibeon,85%
+6,Joshua,10,1,43,Southern Canaan campaign,85%
+6,Joshua,11,1,23,Northern Canaan campaign,85%
+6,Joshua,12,1,24,Canaan (conquered territories),85%
+6,Joshua,13,1,33,Canaan (tribal allocations),85%
+6,Joshua,14,1,15,Canaan (tribal allocations),85%
+6,Joshua,15,1,63,Canaan (Judah's territory),85%
+6,Joshua,16,1,10,Canaan (Ephraim's territory),85%
+6,Joshua,17,1,18,Canaan (Manasseh's territory),85%
+6,Joshua,18,1,28,Canaan (Benjamin's territory),85%
+6,Joshua,19,1,51,Canaan (remaining tribal territories),85%
+6,Joshua,20,1,9,Canaan (cities of refuge),85%
+6,Joshua,21,1,45,Canaan (Levitical cities),85%
+6,Joshua,22,1,34,Canaan/Transjordan,85%
+6,Joshua,23,1,16,Canaan,85%
+6,Joshua,24,1,33,Shechem/Canaan,85%
+7,Judges,1,1,36,Canaan,85%
+7,Judges,2,1,23,Canaan,85%
+7,Judges,3,1,31,Canaan,85%
+7,Judges,4,1,24,Northern Canaan,85%
+7,Judges,5,1,31,Northern Canaan,85%
+7,Judges,6,1,40,Central Canaan,85%
+7,Judges,7,1,25,Central Canaan,85%
+7,Judges,8,1,35,Central Canaan/Transjordan,85%
+7,Judges,9,1,57,Shechem region,85%
+7,Judges,10,1,18,Canaan/Transjordan,85%
+7,Judges,11,1,40,Transjordan/Canaan,85%
+7,Judges,12,1,15,Canaan,85%
+7,Judges,13,1,25,Canaan (Philistine border),85%
+7,Judges,14,1,20,Canaan (Philistine territory),85%
+7,Judges,15,1,20,Canaan (Philistine territory),85%
+7,Judges,16,1,31,Canaan (Philistine territory),85%
+7,Judges,17,1,13,Central Canaan,85%
+7,Judges,18,1,31,Northern Canaan,85%
+7,Judges,19,1,30,Central Canaan,85%
+7,Judges,20,1,48,Central Canaan,85%
+7,Judges,21,1,25,Central Canaan,85%
+8,Ruth,1,1,22,Moab/Bethlehem,85%
+8,Ruth,2,1,23,Bethlehem,90%
+8,Ruth,3,1,18,Bethlehem,90%
+8,Ruth,4,1,22,Bethlehem,90%
+9,1 Samuel,1,1,28,Ramah/Shiloh,85%
+9,1 Samuel,2,1,36,Shiloh,85%
+9,1 Samuel,3,1,21,Shiloh,85%
+9,1 Samuel,4,1,22,Shiloh/Aphek/Philistine territory,85%
+9,1 Samuel,5,1,12,Philistine territory,85%
+9,1 Samuel,6,1,21,Philistine territory/Beth-shemesh,85%
+9,1 Samuel,7,1,17,Mizpah/Ramah,85%
+9,1 Samuel,8,1,22,Ramah,85%
+9,1 Samuel,9,1,27,Ramah/Saul's territory,85%
+9,1 Samuel,10,1,27,Ramah/Gibeah,85%
+9,1 Samuel,11,1,15,Jabesh-gilead/Gilgal,85%
+9,1 Samuel,12,1,25,Gilgal,85%
+9,1 Samuel,13,1,23,Gibeah/Philistine territory,85%
+9,1 Samuel,14,1,52,Gibeah/Philistine territory,85%
+9,1 Samuel,15,1,35,Gilgal/Amalekite territory,85%
+9,1 Samuel,16,1,23,Bethlehem/Gibeah,85%
+9,1 Samuel,17,1,58,Valley of Elah,85%
+9,1 Samuel,18,1,30,Gibeah/Saul's court,85%
+9,1 Samuel,19,1,24,Gibeah/Ramah,85%
+9,1 Samuel,20,1,42,Gibeah,85%
+9,1 Samuel,21,1,15,Nob/Gath,85%
+9,1 Samuel,22,1,23,Adullam/Keilah,85%
+9,1 Samuel,23,1,29,Keilah/Wilderness of Ziph,85%
+9,1 Samuel,24,1,22,Wilderness of En-gedi,85%
+9,1 Samuel,25,1,44,Wilderness of Paran/Maon,85%
+9,1 Samuel,26,1,25,Wilderness of Ziph,85%
+9,1 Samuel,27,1,12,Philistine territory (Gath),85%
+9,1 Samuel,28,1,25,Philistine territory/Endor,85%
+9,1 Samuel,29,1,11,Philistine territory,85%
+9,1 Samuel,30,1,31,Philistine territory/Ziklag,85%
+9,1 Samuel,31,1,13,Mount Gilboa,85%
+10,2 Samuel,1,1,27,Ziklag/Hebron,85%
+10,2 Samuel,2,1,32,Hebron/Mahanaim,85%
+10,2 Samuel,3,1,39,Hebron,85%
+10,2 Samuel,4,1,12,Hebron,85%
+10,2 Samuel,5,1,25,Hebron/Jerusalem,90%
+10,2 Samuel,6,1,23,Jerusalem,90%
+10,2 Samuel,7,1,29,Jerusalem,90%
+10,2 Samuel,8,1,18,Jerusalem/conquered territories,85%
+10,2 Samuel,9,1,13,Jerusalem,90%
+10,2 Samuel,10,1,19,Jerusalem/Transjordan,85%
+10,2 Samuel,11,1,27,Jerusalem/Rabbah,85%
+10,2 Samuel,12,1,31,Jerusalem/Rabbah,85%
+10,2 Samuel,13,1,39,Jerusalem,90%
+10,2 Samuel,14,1,33,Jerusalem,90%
+10,2 Samuel,15,1,37,Jerusalem,90%
+10,2 Samuel,16,1,23,Jerusalem/Bahurim,85%
+10,2 Samuel,17,1,29,Jerusalem/Mahanaim,85%
+10,2 Samuel,18,1,33,Mahanaim/Forest of Ephraim,85%
+10,2 Samuel,19,1,43,Mahanaim/Jerusalem,85%
+10,2 Samuel,20,1,26,Jerusalem/Abel-beth-maacah,85%
+10,2 Samuel,21,1,22,Jerusalem/Gibeon,85%
+10,2 Samuel,22,1,51,Jerusalem,90%
+10,2 Samuel,23,1,39,Jerusalem,90%
+10,2 Samuel,24,1,25,Jerusalem/throughout Israel,85%
+11,1 Kings,1,1,53,Jerusalem,90%
+11,1 Kings,2,1,46,Jerusalem,90%
+11,1 Kings,3,1,28,Jerusalem/Gibeon,85%
+11,1 Kings,4,1,34,Jerusalem/Israel,85%
+11,1 Kings,5,1,18,Jerusalem/Lebanon,85%
+11,1 Kings,6,1,38,Jerusalem,90%
+11,1 Kings,7,1,51,Jerusalem,90%
+11,1 Kings,8,1,66,Jerusalem,90%
+11,1 Kings,9,1,28,Jerusalem/various locations,85%
+11,1 Kings,10,1,29,Jerusalem,90%
+11,1 Kings,11,1,43,Jerusalem/various locations,85%
+11,1 Kings,12,1,33,Shechem/Rehoboam's kingdom,85%
+11,1 Kings,13,1,34,Bethel/Judah,85%
+11,1 Kings,14,1,31,Tirzah/Jerusalem,85%
+11,1 Kings,15,1,34,Jerusalem/Tirzah,85%
+11,1 Kings,16,1,34,Northern Israel (Tirzah/Samaria),85%
+11,1 Kings,17,1,24,Northern Israel/Zarephath,85%
+11,1 Kings,18,1,46,Mount Carmel/Northern Israel,85%
+11,1 Kings,19,1,21,Mount Horeb/Northern Israel,80%
+11,1 Kings,20,1,43,Samaria/Northern Israel,85%
+11,1 Kings,21,1,29,Jezreel/Samaria,85%
+11,1 Kings,22,1,53,Samaria/Ramoth-gilead,85%
+12,2 Kings,1,1,18,Samaria/Northern Israel,85%
+12,2 Kings,2,1,25,Jericho/Jordan River/Bethel,85%
+12,2 Kings,3,1,27,Moab/Northern Israel,85%
+12,2 Kings,4,1,44,Northern Israel (Shunem/Gilgal),85%
+12,2 Kings,5,1,27,Samaria/Damascus,85%
+12,2 Kings,6,1,33,Samaria/Northern Israel,85%
+12,2 Kings,7,1,20,Samaria,85%
+12,2 Kings,8,1,29,Northern Israel/Damascus/Jerusalem,85%
+12,2 Kings,9,1,37,Jezreel/Northern Israel,85%
+12,2 Kings,10,1,36,Samaria/Northern Israel,85%
+12,2 Kings,11,1,21,Jerusalem,90%
+12,2 Kings,12,1,21,Jerusalem,90%
+12,2 Kings,13,1,25,Samaria/Northern Israel,85%
+12,2 Kings,14,1,29,Jerusalem/Samaria,85%
+12,2 Kings,15,1,38,Samaria/Jerusalem,85%
+12,2 Kings,16,1,20,Jerusalem,90%
+12,2 Kings,17,1,41,Samaria/Assyria,85%
+12,2 Kings,18,1,37,Jerusalem/Assyria,85%
+12,2 Kings,19,1,37,Jerusalem,90%
+12,2 Kings,20,1,21,Jerusalem,90%
+12,2 Kings,21,1,26,Jerusalem,90%
+12,2 Kings,22,1,20,Jerusalem,90%
+12,2 Kings,23,1,37,Jerusalem/Judah,85%
+12,2 Kings,24,1,20,Jerusalem/Babylon,85%
+12,2 Kings,25,1,30,Jerusalem/Babylon,85%
+13,1 Chronicles,1,1,54,Genealogical (various ancestral locations),75%
+13,1 Chronicles,2,1,55,Genealogical (Judah/various locations),75%
+13,1 Chronicles,3,1,24,Genealogical (Davidic line/Jerusalem),80%
+13,1 Chronicles,4,1,43,Genealogical (tribal territories),75%
+13,1 Chronicles,5,1,26,Genealogical (Transjordan),75%
+13,1 Chronicles,6,1,81,Genealogical (Levitical cities),75%
+13,1 Chronicles,7,1,40,Genealogical (tribal territories),75%
+13,1 Chronicles,8,1,40,Genealogical (Benjamin/Jerusalem),75%
+13,1 Chronicles,9,1,44,Jerusalem,85%
+13,1 Chronicles,10,1,14,Mount Gilboa,85%
+13,1 Chronicles,11,1,47,Hebron/Jerusalem,85%
+13,1 Chronicles,12,1,40,Hebron/various locations,80%
+13,1 Chronicles,13,1,14,Jerusalem/Kiriath-jearim,85%
+13,1 Chronicles,14,1,17,Jerusalem,90%
+13,1 Chronicles,15,1,29,Jerusalem,90%
+13,1 Chronicles,16,1,43,Jerusalem,90%
+13,1 Chronicles,17,1,27,Jerusalem,90%
+13,1 Chronicles,18,1,17,Jerusalem/conquered territories,85%
+13,1 Chronicles,19,1,19,Jerusalem/Transjordan,85%
+13,1 Chronicles,20,1,8,Jerusalem/Rabbah,85%
+13,1 Chronicles,21,1,30,Jerusalem/throughout Israel,85%
+13,1 Chronicles,22,1,19,Jerusalem,90%
+13,1 Chronicles,23,1,32,Jerusalem,90%
+13,1 Chronicles,24,1,31,Jerusalem,90%
+13,1 Chronicles,25,1,31,Jerusalem,90%
+13,1 Chronicles,26,1,32,Jerusalem,90%
+13,1 Chronicles,27,1,34,Jerusalem/Israel,85%
+13,1 Chronicles,28,1,21,Jerusalem,90%
+13,1 Chronicles,29,1,30,Jerusalem,90%
+14,2 Chronicles,1,1,17,Jerusalem/Gibeon,85%
+14,2 Chronicles,2,1,18,Jerusalem/Lebanon,85%
+14,2 Chronicles,3,1,17,Jerusalem,90%
+14,2 Chronicles,4,1,22,Jerusalem,90%
+14,2 Chronicles,5,1,14,Jerusalem,90%
+14,2 Chronicles,6,1,42,Jerusalem,90%
+14,2 Chronicles,7,1,22,Jerusalem,90%
+14,2 Chronicles,8,1,18,Jerusalem/various locations,85%
+14,2 Chronicles,9,1,31,Jerusalem,90%
+14,2 Chronicles,10,1,19,Shechem/Jerusalem,85%
+14,2 Chronicles,11,1,23,Jerusalem/Judah,85%
+14,2 Chronicles,12,1,16,Jerusalem,90%
+14,2 Chronicles,13,1,22,Jerusalem/Northern Israel,85%
+14,2 Chronicles,14,1,15,Jerusalem/Judah,85%
+14,2 Chronicles,15,1,19,Jerusalem/Judah,85%
+14,2 Chronicles,16,1,14,Jerusalem/Judah,85%
+14,2 Chronicles,17,1,19,Jerusalem/Judah,85%
+14,2 Chronicles,18,1,34,Jerusalem/Ramoth-gilead,85%
+14,2 Chronicles,19,1,11,Jerusalem/Judah,85%
+14,2 Chronicles,20,1,37,Jerusalem/Judah,85%
+14,2 Chronicles,21,1,20,Jerusalem,90%
+14,2 Chronicles,22,1,12,Jerusalem,90%
+14,2 Chronicles,23,1,21,Jerusalem,90%
+14,2 Chronicles,24,1,27,Jerusalem,90%
+14,2 Chronicles,25,1,28,Jerusalem/Edom,85%
+14,2 Chronicles,26,1,23,Jerusalem/Judah,85%
+14,2 Chronicles,27,1,9,Jerusalem,90%
+14,2 Chronicles,28,1,27,Jerusalem/Damascus,85%
+14,2 Chronicles,29,1,36,Jerusalem,90%
+14,2 Chronicles,30,1,27,Jerusalem/Israel,85%
+14,2 Chronicles,31,1,21,Jerusalem/Judah,85%
+14,2 Chronicles,32,1,33,Jerusalem/Judah,85%
+14,2 Chronicles,33,1,25,Jerusalem,90%
+14,2 Chronicles,34,1,33,Jerusalem/Judah,85%
+14,2 Chronicles,35,1,27,Jerusalem,90%
+14,2 Chronicles,36,1,23,Jerusalem/Babylon,85%
+15,Ezra,1,1,11,Babylon/Jerusalem,85%
+15,Ezra,2,1,70,Babylon/Jerusalem,85%
+15,Ezra,3,1,13,Jerusalem,90%
+15,Ezra,4,1,24,Jerusalem/Persia,85%
+15,Ezra,5,1,17,Jerusalem,90%
+15,Ezra,6,1,22,Jerusalem/Persia,85%
+15,Ezra,7,1,28,Babylon/Jerusalem,85%
+15,Ezra,8,1,36,Babylon/Jerusalem,85%
+15,Ezra,9,1,15,Jerusalem,90%
+15,Ezra,10,1,44,Jerusalem,90%
+16,Nehemiah,1,1,11,Susa/Jerusalem,85%
+16,Nehemiah,2,1,20,Susa/Jerusalem,85%
+16,Nehemiah,3,1,32,Jerusalem,90%
+16,Nehemiah,4,1,23,Jerusalem,90%
+16,Nehemiah,5,1,19,Jerusalem,90%
+16,Nehemiah,6,1,19,Jerusalem,90%
+16,Nehemiah,7,1,73,Jerusalem,90%
+16,Nehemiah,8,1,18,Jerusalem,90%
+16,Nehemiah,9,1,38,Jerusalem,90%
+16,Nehemiah,10,1,39,Jerusalem,90%
+16,Nehemiah,11,1,36,Jerusalem/Judah,85%
+16,Nehemiah,12,1,47,Jerusalem,90%
+16,Nehemiah,13,1,31,Jerusalem,90%
+17,Esther,1,1,22,Susa (Persia),90%
+17,Esther,2,1,23,Susa (Persia),90%
+17,Esther,3,1,15,Susa (Persia),90%
+17,Esther,4,1,17,Susa (Persia),90%
+17,Esther,5,1,14,Susa (Persia),90%
+17,Esther,6,1,14,Susa (Persia),90%
+17,Esther,7,1,10,Susa (Persia),90%
+17,Esther,8,1,17,Susa (Persia),90%
+17,Esther,9,1,32,Susa (Persia)/Persian Empire,85%
+17,Esther,10,1,3,Persian Empire,85%
+18,Job,1,1,22,Land of Uz,70%
+18,Job,2,1,13,Land of Uz,70%
+18,Job,3,1,26,Land of Uz,70%
+18,Job,4,1,21,Land of Uz,70%
+18,Job,5,1,27,Land of Uz,70%
+18,Job,6,1,30,Land of Uz,70%
+18,Job,7,1,21,Land of Uz,70%
+18,Job,8,1,22,Land of Uz,70%
+18,Job,9,1,35,Land of Uz,70%
+18,Job,10,1,22,Land of Uz,70%
+18,Job,11,1,20,Land of Uz,70%
+18,Job,12,1,25,Land of Uz,70%
+18,Job,13,1,28,Land of Uz,70%
+18,Job,14,1,22,Land of Uz,70%
+18,Job,15,1,35,Land of Uz,70%
+18,Job,16,1,22,Land of Uz,70%
+18,Job,17,1,16,Land of Uz,70%
+18,Job,18,1,21,Land of Uz,70%
+18,Job,19,1,29,Land of Uz,70%
+18,Job,20,1,29,Land of Uz,70%
+18,Job,21,1,34,Land of Uz,70%
+18,Job,22,1,30,Land of Uz,70%
+18,Job,23,1,17,Land of Uz,70%
+18,Job,24,1,25,Land of Uz,70%
+18,Job,25,1,6,Land of Uz,70%
+18,Job,26,1,14,Land of Uz,70%
+18,Job,27,1,23,Land of Uz,70%
+18,Job,28,1,28,Land of Uz,70%
+18,Job,29,1,25,Land of Uz,70%
+18,Job,30,1,31,Land of Uz,70%
+18,Job,31,1,40,Land of Uz,70%
+18,Job,32,1,22,Land of Uz,70%
+18,Job,33,1,33,Land of Uz,70%
+18,Job,34,1,37,Land of Uz,70%
+18,Job,35,1,16,Land of Uz,70%
+18,Job,36,1,33,Land of Uz,70%
+18,Job,37,1,24,Land of Uz,70%
+18,Job,38,1,41,Land of Uz,70%
+18,Job,39,1,30,Land of Uz,70%
+18,Job,40,1,24,Land of Uz,70%
+18,Job,41,1,34,Land of Uz,70%
+18,Job,42,1,17,Land of Uz,70%
+19,Psalms,1,1,6,Jerusalem/Zion (liturgical context),80%
+19,Psalms,2,1,12,Jerusalem/Zion (liturgical context),80%
+19,Psalms,3,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,4,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,5,1,12,Jerusalem/Zion (liturgical context),80%
+19,Psalms,6,1,10,Jerusalem/Zion (liturgical context),80%
+19,Psalms,7,1,17,Jerusalem/Zion (liturgical context),80%
+19,Psalms,8,1,9,Jerusalem/Zion (liturgical context),80%
+19,Psalms,9,1,20,Jerusalem/Zion (liturgical context),80%
+19,Psalms,10,1,18,Jerusalem/Zion (liturgical context),80%
+19,Psalms,11,1,7,Jerusalem/Zion (liturgical context),80%
+19,Psalms,12,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,13,1,6,Jerusalem/Zion (liturgical context),80%
+19,Psalms,14,1,7,Jerusalem/Zion (liturgical context),80%
+19,Psalms,15,1,5,Jerusalem/Zion (liturgical context),80%
+19,Psalms,16,1,11,Jerusalem/Zion (liturgical context),80%
+19,Psalms,17,1,15,Jerusalem/Zion (liturgical context),80%
+19,Psalms,18,1,50,Jerusalem/Zion (liturgical context),80%
+19,Psalms,19,1,14,Jerusalem/Zion (liturgical context),80%
+19,Psalms,20,1,9,Jerusalem/Zion (liturgical context),80%
+19,Psalms,21,1,13,Jerusalem/Zion (liturgical context),80%
+19,Psalms,22,1,31,Jerusalem/Zion (liturgical context),80%
+19,Psalms,23,1,6,Jerusalem/Zion (liturgical context),80%
+19,Psalms,24,1,10,Jerusalem/Zion (liturgical context),80%
+19,Psalms,25,1,22,Jerusalem/Zion (liturgical context),80%
+19,Psalms,26,1,12,Jerusalem/Zion (liturgical context),80%
+19,Psalms,27,1,14,Jerusalem/Zion (liturgical context),80%
+19,Psalms,28,1,9,Jerusalem/Zion (liturgical context),80%
+19,Psalms,29,1,11,Jerusalem/Zion (liturgical context),80%
+19,Psalms,30,1,12,Jerusalem/Zion (liturgical context),80%
+19,Psalms,31,1,24,Jerusalem/Zion (liturgical context),80%
+19,Psalms,32,1,11,Jerusalem/Zion (liturgical context),80%
+19,Psalms,33,1,22,Jerusalem/Zion (liturgical context),80%
+19,Psalms,34,1,22,Jerusalem/Zion (liturgical context),80%
+19,Psalms,35,1,28,Jerusalem/Zion (liturgical context),80%
+19,Psalms,36,1,12,Jerusalem/Zion (liturgical context),80%
+19,Psalms,37,1,40,Jerusalem/Zion (liturgical context),80%
+19,Psalms,38,1,22,Jerusalem/Zion (liturgical context),80%
+19,Psalms,39,1,13,Jerusalem/Zion (liturgical context),80%
+19,Psalms,40,1,17,Jerusalem/Zion (liturgical context),80%
+19,Psalms,41,1,13,Jerusalem/Zion (liturgical context),80%
+19,Psalms,42,1,11,Jerusalem/Zion (liturgical context),80%
+19,Psalms,43,1,5,Jerusalem/Zion (liturgical context),80%
+19,Psalms,44,1,26,Jerusalem/Zion (liturgical context),80%
+19,Psalms,45,1,17,Jerusalem/Zion (liturgical context),80%
+19,Psalms,46,1,11,Jerusalem/Zion (liturgical context),80%
+19,Psalms,47,1,9,Jerusalem/Zion (liturgical context),80%
+19,Psalms,48,1,14,Jerusalem/Zion (liturgical context),80%
+19,Psalms,49,1,20,Jerusalem/Zion (liturgical context),80%
+19,Psalms,50,1,23,Jerusalem/Zion (liturgical context),80%
+19,Psalms,51,1,19,Jerusalem/Zion (liturgical context),80%
+19,Psalms,52,1,9,Jerusalem/Zion (liturgical context),80%
+19,Psalms,53,1,6,Jerusalem/Zion (liturgical context),80%
+19,Psalms,54,1,7,Jerusalem/Zion (liturgical context),80%
+19,Psalms,55,1,23,Jerusalem/Zion (liturgical context),80%
+19,Psalms,56,1,13,Jerusalem/Zion (liturgical context),80%
+19,Psalms,57,1,11,Jerusalem/Zion (liturgical context),80%
+19,Psalms,58,1,11,Jerusalem/Zion (liturgical context),80%
+19,Psalms,59,1,17,Jerusalem/Zion (liturgical context),80%
+19,Psalms,60,1,12,Jerusalem/Zion (liturgical context),80%
+19,Psalms,61,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,62,1,12,Jerusalem/Zion (liturgical context),80%
+19,Psalms,63,1,11,Jerusalem/Zion (liturgical context),80%
+19,Psalms,64,1,10,Jerusalem/Zion (liturgical context),80%
+19,Psalms,65,1,13,Jerusalem/Zion (liturgical context),80%
+19,Psalms,66,1,20,Jerusalem/Zion (liturgical context),80%
+19,Psalms,67,1,7,Jerusalem/Zion (liturgical context),80%
+19,Psalms,68,1,35,Jerusalem/Zion (liturgical context),80%
+19,Psalms,69,1,36,Jerusalem/Zion (liturgical context),80%
+19,Psalms,70,1,5,Jerusalem/Zion (liturgical context),80%
+19,Psalms,71,1,24,Jerusalem/Zion (liturgical context),80%
+19,Psalms,72,1,20,Jerusalem/Zion (liturgical context),80%
+19,Psalms,73,1,28,Jerusalem/Zion (liturgical context),80%
+19,Psalms,74,1,23,Jerusalem/Zion (liturgical context),80%
+19,Psalms,75,1,10,Jerusalem/Zion (liturgical context),80%
+19,Psalms,76,1,12,Jerusalem/Zion (liturgical context),80%
+19,Psalms,77,1,20,Jerusalem/Zion (liturgical context),80%
+19,Psalms,78,1,72,Jerusalem/Zion (liturgical context),80%
+19,Psalms,79,1,13,Jerusalem/Zion (liturgical context),80%
+19,Psalms,80,1,19,Jerusalem/Zion (liturgical context),80%
+19,Psalms,81,1,16,Jerusalem/Zion (liturgical context),80%
+19,Psalms,82,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,83,1,18,Jerusalem/Zion (liturgical context),80%
+19,Psalms,84,1,12,Jerusalem/Zion (liturgical context),80%
+19,Psalms,85,1,13,Jerusalem/Zion (liturgical context),80%
+19,Psalms,86,1,17,Jerusalem/Zion (liturgical context),80%
+19,Psalms,87,1,7,Jerusalem/Zion (liturgical context),80%
+19,Psalms,88,1,18,Jerusalem/Zion (liturgical context),80%
+19,Psalms,89,1,52,Jerusalem/Zion (liturgical context),80%
+19,Psalms,90,1,17,Jerusalem/Zion (liturgical context),80%
+19,Psalms,91,1,16,Jerusalem/Zion (liturgical context),80%
+19,Psalms,92,1,15,Jerusalem/Zion (liturgical context),80%
+19,Psalms,93,1,5,Jerusalem/Zion (liturgical context),80%
+19,Psalms,94,1,23,Jerusalem/Zion (liturgical context),80%
+19,Psalms,95,1,11,Jerusalem/Zion (liturgical context),80%
+19,Psalms,96,1,13,Jerusalem/Zion (liturgical context),80%
+19,Psalms,97,1,12,Jerusalem/Zion (liturgical context),80%
+19,Psalms,98,1,9,Jerusalem/Zion (liturgical context),80%
+19,Psalms,99,1,9,Jerusalem/Zion (liturgical context),80%
+19,Psalms,100,1,5,Jerusalem/Zion (liturgical context),80%
+19,Psalms,101,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,102,1,28,Jerusalem/Zion (liturgical context),80%
+19,Psalms,103,1,22,Jerusalem/Zion (liturgical context),80%
+19,Psalms,104,1,35,Jerusalem/Zion (liturgical context),80%
+19,Psalms,105,1,45,Jerusalem/Zion (liturgical context),80%
+19,Psalms,106,1,48,Jerusalem/Zion (liturgical context),80%
+19,Psalms,107,1,43,Jerusalem/Zion (liturgical context),80%
+19,Psalms,108,1,13,Jerusalem/Zion (liturgical context),80%
+19,Psalms,109,1,31,Jerusalem/Zion (liturgical context),80%
+19,Psalms,110,1,7,Jerusalem/Zion (liturgical context),80%
+19,Psalms,111,1,10,Jerusalem/Zion (liturgical context),80%
+19,Psalms,112,1,10,Jerusalem/Zion (liturgical context),80%
+19,Psalms,113,1,9,Jerusalem/Zion (liturgical context),80%
+19,Psalms,114,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,115,1,18,Jerusalem/Zion (liturgical context),80%
+19,Psalms,116,1,19,Jerusalem/Zion (liturgical context),80%
+19,Psalms,117,1,2,Jerusalem/Zion (liturgical context),80%
+19,Psalms,118,1,29,Jerusalem/Zion (liturgical context),80%
+19,Psalms,119,1,176,Jerusalem/Zion (liturgical context),80%
+19,Psalms,120,1,7,Jerusalem/Zion (liturgical context),80%
+19,Psalms,121,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,122,1,9,Jerusalem/Zion (liturgical context),80%
+19,Psalms,123,1,4,Jerusalem/Zion (liturgical context),80%
+19,Psalms,124,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,125,1,5,Jerusalem/Zion (liturgical context),80%
+19,Psalms,126,1,6,Jerusalem/Zion (liturgical context),80%
+19,Psalms,127,1,5,Jerusalem/Zion (liturgical context),80%
+19,Psalms,128,1,6,Jerusalem/Zion (liturgical context),80%
+19,Psalms,129,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,130,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,131,1,3,Jerusalem/Zion (liturgical context),80%
+19,Psalms,132,1,18,Jerusalem/Zion (liturgical context),80%
+19,Psalms,133,1,3,Jerusalem/Zion (liturgical context),80%
+19,Psalms,134,1,3,Jerusalem/Zion (liturgical context),80%
+19,Psalms,135,1,21,Jerusalem/Zion (liturgical context),80%
+19,Psalms,136,1,26,Jerusalem/Zion (liturgical context),80%
+19,Psalms,137,1,9,Babylon/Jerusalem (exile context),85%
+19,Psalms,138,1,8,Jerusalem/Zion (liturgical context),80%
+19,Psalms,139,1,24,Jerusalem/Zion (liturgical context),80%
+19,Psalms,140,1,13,Jerusalem/Zion (liturgical context),80%
+19,Psalms,141,1,10,Jerusalem/Zion (liturgical context),80%
+19,Psalms,142,1,7,Jerusalem/Zion (liturgical context),80%
+19,Psalms,143,1,12,Jerusalem/Zion (liturgical context),80%
+19,Psalms,144,1,15,Jerusalem/Zion (liturgical context),80%
+19,Psalms,145,1,21,Jerusalem/Zion (liturgical context),80%
+19,Psalms,146,1,10,Jerusalem/Zion (liturgical context),80%
+19,Psalms,147,1,20,Jerusalem/Zion (liturgical context),80%
+19,Psalms,148,1,14,Jerusalem/Zion (liturgical context),80%
+19,Psalms,149,1,9,Jerusalem/Zion (liturgical context),80%
+19,Psalms,150,1,6,Jerusalem/Zion (liturgical context),80%
+20,Proverbs,1,1,33,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,2,1,22,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,3,1,35,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,4,1,27,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,5,1,23,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,6,1,35,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,7,1,27,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,8,1,36,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,9,1,18,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,10,1,32,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,11,1,31,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,12,1,28,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,13,1,25,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,14,1,35,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,15,1,33,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,16,1,33,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,17,1,28,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,18,1,24,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,19,1,29,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,20,1,30,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,21,1,31,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,22,1,29,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,23,1,35,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,24,1,34,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,25,1,28,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,26,1,28,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,27,1,27,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,28,1,28,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,29,1,27,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,30,1,33,Jerusalem/Israel (wisdom context),80%
+20,Proverbs,31,1,31,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,1,1,18,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,2,1,26,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,3,1,22,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,4,1,16,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,5,1,20,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,6,1,12,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,7,1,29,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,8,1,17,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,9,1,18,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,10,1,20,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,11,1,10,Jerusalem/Israel (wisdom context),80%
+21,Ecclesiastes,12,1,14,Jerusalem/Israel (wisdom context),80%
+22,Song of Solomon,1,1,17,Jerusalem/Judah,80%
+22,Song of Solomon,2,1,17,Jerusalem/Judah,80%
+22,Song of Solomon,3,1,11,Jerusalem/Judah,80%
+22,Song of Solomon,4,1,16,Jerusalem/Judah,80%
+22,Song of Solomon,5,1,16,Jerusalem/Judah,80%
+22,Song of Solomon,6,1,13,Jerusalem/Judah,80%
+22,Song of Solomon,7,1,13,Jerusalem/Judah,80%
+22,Song of Solomon,8,1,14,Jerusalem/Judah,80%
+23,Isaiah,1,1,31,Jerusalem/Judah,90%
+23,Isaiah,2,1,22,Jerusalem/Judah,90%
+23,Isaiah,3,1,26,Jerusalem/Judah,90%
+23,Isaiah,4,1,6,Jerusalem/Judah,90%
+23,Isaiah,5,1,30,Jerusalem/Judah,90%
+23,Isaiah,6,1,13,Jerusalem/Judah,90%
+23,Isaiah,7,1,25,Jerusalem/Judah,90%
+23,Isaiah,8,1,22,Jerusalem/Judah,90%
+23,Isaiah,9,1,21,Jerusalem/Judah,90%
+23,Isaiah,10,1,34,Jerusalem/Judah and Assyria,85%
+23,Isaiah,11,1,16,Jerusalem/Judah,90%
+23,Isaiah,12,1,6,Jerusalem/Judah,90%
+23,Isaiah,13,1,22,Babylon,85%
+23,Isaiah,14,1,32,Babylon/Jerusalem,85%
+23,Isaiah,15,1,9,Moab,85%
+23,Isaiah,16,1,14,Moab,85%
+23,Isaiah,17,1,14,Damascus/Syria,85%
+23,Isaiah,18,1,7,Ethiopia/Cush,80%
+23,Isaiah,19,1,25,Egypt,90%
+23,Isaiah,20,1,6,Egypt/Ethiopia,85%
+23,Isaiah,21,1,17,Babylon/Arabia,80%
+23,Isaiah,22,1,25,Jerusalem,90%
+23,Isaiah,23,1,18,Tyre/Phoenicia,85%
+23,Isaiah,24,1,23,Universal judgment,70%
+23,Isaiah,25,1,12,Universal/Jerusalem,75%
+23,Isaiah,26,1,21,Universal/Jerusalem,75%
+23,Isaiah,27,1,13,Universal/Jerusalem,75%
+23,Isaiah,28,1,29,Jerusalem/Samaria,90%
+23,Isaiah,29,1,24,Jerusalem,90%
+23,Isaiah,30,1,33,Jerusalem/Egypt,90%
+23,Isaiah,31,1,9,Jerusalem/Egypt,90%
+23,Isaiah,32,1,20,Jerusalem/Judah,90%
+23,Isaiah,33,1,24,Jerusalem/Judah,90%
+23,Isaiah,34,1,17,Edom,85%
+23,Isaiah,35,1,10,Wilderness/Zion,80%
+23,Isaiah,36,1,22,Jerusalem,90%
+23,Isaiah,37,1,38,Jerusalem,90%
+23,Isaiah,38,1,22,Jerusalem,90%
+23,Isaiah,39,1,8,Jerusalem/Babylon,90%
+23,Isaiah,40,1,31,Babylon/Jerusalem,85%
+23,Isaiah,41,1,29,Babylon/Jerusalem,85%
+23,Isaiah,42,1,25,Babylon/Jerusalem,85%
+23,Isaiah,43,1,28,Babylon/Jerusalem,85%
+23,Isaiah,44,1,28,Babylon/Jerusalem,85%
+23,Isaiah,45,1,25,Babylon/Jerusalem,85%
+23,Isaiah,46,1,13,Babylon/Jerusalem,85%
+23,Isaiah,47,1,15,Babylon,85%
+23,Isaiah,48,1,22,Babylon/Jerusalem,85%
+23,Isaiah,49,1,26,Babylon/Jerusalem,85%
+23,Isaiah,50,1,11,Babylon/Jerusalem,85%
+23,Isaiah,51,1,23,Babylon/Jerusalem,85%
+23,Isaiah,52,1,15,Babylon/Jerusalem,85%
+23,Isaiah,53,1,12,Babylon/Jerusalem,85%
+23,Isaiah,54,1,17,Babylon/Jerusalem,85%
+23,Isaiah,55,1,13,Babylon/Jerusalem,85%
+23,Isaiah,56,1,12,Jerusalem,90%
+23,Isaiah,57,1,21,Jerusalem,90%
+23,Isaiah,58,1,14,Jerusalem,90%
+23,Isaiah,59,1,21,Jerusalem,90%
+23,Isaiah,60,1,22,Jerusalem,90%
+23,Isaiah,61,1,11,Jerusalem,90%
+23,Isaiah,62,1,12,Jerusalem,90%
+23,Isaiah,63,1,19,Jerusalem/Edom,85%
+23,Isaiah,64,1,12,Jerusalem,90%
+23,Isaiah,65,1,25,Jerusalem,90%
+23,Isaiah,66,1,24,Jerusalem,90%
+24,Jeremiah,1,1,19,Jerusalem/Judah,90%
+24,Jeremiah,2,1,37,Jerusalem/Judah,90%
+24,Jeremiah,3,1,25,Jerusalem/Judah,90%
+24,Jeremiah,4,1,31,Jerusalem/Judah,90%
+24,Jeremiah,5,1,31,Jerusalem/Judah,90%
+24,Jeremiah,6,1,30,Jerusalem/Judah,90%
+24,Jeremiah,7,1,34,Jerusalem/Judah,90%
+24,Jeremiah,8,1,22,Jerusalem/Judah,90%
+24,Jeremiah,9,1,26,Jerusalem/Judah,90%
+24,Jeremiah,10,1,25,Jerusalem/Judah,90%
+24,Jeremiah,11,1,23,Jerusalem/Judah,90%
+24,Jeremiah,12,1,17,Jerusalem/Judah,90%
+24,Jeremiah,13,1,27,Jerusalem/Judah,90%
+24,Jeremiah,14,1,22,Jerusalem/Judah,90%
+24,Jeremiah,15,1,21,Jerusalem/Judah,90%
+24,Jeremiah,16,1,21,Jerusalem/Judah,90%
+24,Jeremiah,17,1,27,Jerusalem/Judah,90%
+24,Jeremiah,18,1,23,Jerusalem/Judah,90%
+24,Jeremiah,19,1,15,Jerusalem/Judah,90%
+24,Jeremiah,20,1,18,Jerusalem/Judah,90%
+24,Jeremiah,21,1,14,Jerusalem/Judah,90%
+24,Jeremiah,22,1,30,Jerusalem/Judah,90%
+24,Jeremiah,23,1,40,Jerusalem/Judah,90%
+24,Jeremiah,24,1,10,Jerusalem/Judah,90%
+24,Jeremiah,25,1,38,Jerusalem/Judah and nations,85%
+24,Jeremiah,26,1,24,Jerusalem/Judah,90%
+24,Jeremiah,27,1,22,Jerusalem/Judah,90%
+24,Jeremiah,28,1,17,Jerusalem/Judah,90%
+24,Jeremiah,29,1,32,Jerusalem/Babylon,85%
+24,Jeremiah,30,1,24,Jerusalem/Judah,90%
+24,Jeremiah,31,1,40,Jerusalem/Judah,90%
+24,Jeremiah,32,1,44,Jerusalem/Judah,90%
+24,Jeremiah,33,1,26,Jerusalem/Judah,90%
+24,Jeremiah,34,1,22,Jerusalem/Judah,90%
+24,Jeremiah,35,1,19,Jerusalem/Judah,90%
+24,Jeremiah,36,1,32,Jerusalem/Judah,90%
+24,Jeremiah,37,1,21,Jerusalem/Judah,90%
+24,Jeremiah,38,1,28,Jerusalem/Judah,90%
+24,Jeremiah,39,1,18,Jerusalem/Judah,90%
+24,Jeremiah,40,1,16,Jerusalem/Judah,90%
+24,Jeremiah,41,1,18,Jerusalem/Judah,90%
+24,Jeremiah,42,1,22,Jerusalem/Judah,90%
+24,Jeremiah,43,1,13,Jerusalem/Judah/Egypt,85%
+24,Jeremiah,44,1,30,Egypt,90%
+24,Jeremiah,45,1,5,Jerusalem/Judah,90%
+24,Jeremiah,46,1,28,Egypt,90%
+24,Jeremiah,47,1,7,Philistia,85%
+24,Jeremiah,48,1,47,Moab,85%
+24,Jeremiah,49,1,39,Ammon/Edom/Damascus/Kedar/Elam,80%
+24,Jeremiah,50,1,46,Babylon,85%
+24,Jeremiah,51,1,64,Babylon,85%
+24,Jeremiah,52,1,34,Jerusalem/Babylon,90%
+25,Lamentations,1,1,22,Jerusalem,90%
+25,Lamentations,2,1,22,Jerusalem,90%
+25,Lamentations,3,1,66,Jerusalem,90%
+25,Lamentations,4,1,22,Jerusalem,90%
+25,Lamentations,5,1,22,Jerusalem,90%
+26,Ezekiel,1,1,28,Babylon (Tel-abib by Chebar River),90%
+26,Ezekiel,2,1,10,Babylon (Tel-abib by Chebar River),90%
+26,Ezekiel,3,1,27,Babylon (Tel-abib by Chebar River),90%
+26,Ezekiel,4,1,17,Babylon (vision of Jerusalem),85%
+26,Ezekiel,5,1,17,Babylon (vision of Jerusalem),85%
+26,Ezekiel,6,1,14,Babylon (vision of Jerusalem),85%
+26,Ezekiel,7,1,27,Babylon (vision of Jerusalem),85%
+26,Ezekiel,8,1,18,Babylon (vision of Jerusalem temple),85%
+26,Ezekiel,9,1,11,Babylon (vision of Jerusalem temple),85%
+26,Ezekiel,10,1,22,Babylon (vision of Jerusalem temple),85%
+26,Ezekiel,11,1,25,Babylon (vision of Jerusalem),85%
+26,Ezekiel,12,1,28,Babylon (vision of Jerusalem),85%
+26,Ezekiel,13,1,23,Babylon (vision of Jerusalem),85%
+26,Ezekiel,14,1,23,Babylon (vision of Jerusalem),85%
+26,Ezekiel,15,1,8,Babylon (vision of Jerusalem),85%
+26,Ezekiel,16,1,63,Babylon (vision of Jerusalem),85%
+26,Ezekiel,17,1,24,Babylon (vision of Jerusalem/Babylon),85%
+26,Ezekiel,18,1,32,Babylon (vision of Jerusalem),85%
+26,Ezekiel,19,1,14,Babylon (vision of Jerusalem),85%
+26,Ezekiel,20,1,49,Babylon (vision of Jerusalem),85%
+26,Ezekiel,21,1,32,Babylon (vision of Jerusalem),85%
+26,Ezekiel,22,1,31,Babylon (vision of Jerusalem),85%
+26,Ezekiel,23,1,49,Babylon (vision of Jerusalem/Samaria),85%
+26,Ezekiel,24,1,27,Babylon (vision of Jerusalem),85%
+26,Ezekiel,25,1,17,Babylon (oracles against nations),80%
+26,Ezekiel,26,1,21,Babylon (oracle against Tyre),80%
+26,Ezekiel,27,1,36,Babylon (oracle against Tyre),80%
+26,Ezekiel,28,1,26,Babylon (oracle against Tyre/Sidon),80%
+26,Ezekiel,29,1,21,Babylon (oracle against Egypt),80%
+26,Ezekiel,30,1,26,Babylon (oracle against Egypt),80%
+26,Ezekiel,31,1,18,Babylon (oracle against Egypt),80%
+26,Ezekiel,32,1,32,Babylon (oracle against Egypt),80%
+26,Ezekiel,33,1,33,Babylon (watchman oracle),85%
+26,Ezekiel,34,1,31,Babylon (shepherd oracle),85%
+26,Ezekiel,35,1,15,Babylon (oracle against Edom),80%
+26,Ezekiel,36,1,38,Babylon (restoration oracle),85%
+26,Ezekiel,37,1,28,Babylon (restoration oracle),85%
+26,Ezekiel,38,1,23,Babylon (Gog oracle),75%
+26,Ezekiel,39,1,29,Babylon (Gog oracle),75%
+26,Ezekiel,40,1,49,Babylon (temple vision),80%
+26,Ezekiel,41,1,26,Babylon (temple vision),80%
+26,Ezekiel,42,1,20,Babylon (temple vision),80%
+26,Ezekiel,43,1,27,Babylon (temple vision),80%
+26,Ezekiel,44,1,31,Babylon (temple vision),80%
+26,Ezekiel,45,1,25,Babylon (temple vision),80%
+26,Ezekiel,46,1,24,Babylon (temple vision),80%
+26,Ezekiel,47,1,23,Babylon (temple vision),80%
+26,Ezekiel,48,1,35,Babylon (temple vision),80%
+27,Daniel,1,1,21,Babylon,90%
+27,Daniel,2,1,49,Babylon,90%
+27,Daniel,3,1,30,Babylon,90%
+27,Daniel,4,1,37,Babylon,90%
+27,Daniel,5,1,31,Babylon,90%
+27,Daniel,6,1,28,Babylon (under Persian rule),90%
+27,Daniel,7,1,28,Babylon (under Persian rule),90%
+27,Daniel,8,1,27,Babylon (under Persian rule),90%
+27,Daniel,9,1,27,Babylon (under Persian rule),90%
+27,Daniel,10,1,21,Babylon (under Persian rule),90%
+27,Daniel,11,1,45,Babylon (under Persian rule),90%
+27,Daniel,12,1,13,Babylon (under Persian rule),90%
+28,Hosea,1,1,11,Northern Israel,85%
+28,Hosea,2,1,23,Northern Israel,85%
+28,Hosea,3,1,5,Northern Israel,85%
+28,Hosea,4,1,19,Northern Israel,85%
+28,Hosea,5,1,15,Northern Israel,85%
+28,Hosea,6,1,11,Northern Israel,85%
+28,Hosea,7,1,16,Northern Israel,85%
+28,Hosea,8,1,14,Northern Israel,85%
+28,Hosea,9,1,17,Northern Israel,85%
+28,Hosea,10,1,15,Northern Israel,85%
+28,Hosea,11,1,12,Northern Israel,85%
+28,Hosea,12,1,14,Northern Israel,85%
+28,Hosea,13,1,16,Northern Israel,85%
+28,Hosea,14,1,9,Northern Israel,85%
+29,Joel,1,1,20,Judah/Jerusalem,85%
+29,Joel,2,1,32,Judah/Jerusalem,85%
+29,Joel,3,1,21,Judah/Jerusalem,85%
+30,Amos,1,1,15,Northern Israel (oracles against nations),85%
+30,Amos,2,1,16,Northern Israel,85%
+30,Amos,3,1,15,Northern Israel,85%
+30,Amos,4,1,13,Northern Israel,85%
+30,Amos,5,1,27,Northern Israel,85%
+30,Amos,6,1,14,Northern Israel,85%
+30,Amos,7,1,17,Northern Israel,85%
+30,Amos,8,1,14,Northern Israel,85%
+30,Amos,9,1,15,Northern Israel,85%
+31,Obadiah,1,1,21,Edom,85%
+32,Jonah,1,1,17,Joppa/Mediterranean Sea,85%
+32,Jonah,2,1,10,Inside great fish (Mediterranean Sea),80%
+32,Jonah,3,1,10,Nineveh,90%
+32,Jonah,4,1,11,Nineveh,90%
+33,Micah,1,1,16,Judah/Jerusalem,90%
+33,Micah,2,1,13,Judah/Jerusalem,90%
+33,Micah,3,1,12,Judah/Jerusalem,90%
+33,Micah,4,1,13,Jerusalem/Zion,90%
+33,Micah,5,1,15,Bethlehem/Judah,90%
+33,Micah,6,1,16,Judah/Jerusalem,90%
+33,Micah,7,1,20,Judah/Jerusalem,90%
+34,Nahum,1,1,15,Judah (prophecy against Nineveh),85%
+34,Nahum,2,1,13,Nineveh,85%
+34,Nahum,3,1,19,Nineveh,85%
+35,Habakkuk,1,1,17,Judah,85%
+35,Habakkuk,2,1,20,Judah,85%
+35,Habakkuk,3,1,19,Judah,85%
+36,Zephaniah,1,1,18,Judah/Jerusalem,90%
+36,Zephaniah,2,1,15,Judah (prophecy against nations),85%
+36,Zephaniah,3,1,20,Jerusalem/Judah,90%
+37,Haggai,1,1,15,Jerusalem (post-exilic),90%
+37,Haggai,2,1,23,Jerusalem (post-exilic),90%
+38,Zechariah,1,1,21,Jerusalem (post-exilic),90%
+38,Zechariah,2,1,13,Jerusalem (post-exilic),90%
+38,Zechariah,3,1,10,Jerusalem (post-exilic),90%
+38,Zechariah,4,1,14,Jerusalem (post-exilic),90%
+38,Zechariah,5,1,11,Jerusalem (post-exilic),90%
+38,Zechariah,6,1,15,Jerusalem (post-exilic),90%
+38,Zechariah,7,1,14,Jerusalem (post-exilic),90%
+38,Zechariah,8,1,23,Jerusalem (post-exilic),90%
+38,Zechariah,9,1,17,Jerusalem/surrounding regions,85%
+38,Zechariah,10,1,12,Jerusalem/surrounding regions,85%
+38,Zechariah,11,1,17,Jerusalem/surrounding regions,85%
+38,Zechariah,12,1,14,Jerusalem/Judah,90%
+38,Zechariah,13,1,9,Jerusalem/Judah,90%
+38,Zechariah,14,1,21,Jerusalem/Judah,90%
+39,Malachi,1,1,14,Jerusalem (post-exilic),90%
+39,Malachi,2,1,17,Jerusalem (post-exilic),90%
+39,Malachi,3,1,18,Jerusalem (post-exilic),90%
+39,Malachi,4,1,6,Jerusalem (post-exilic),90%
+40,1 Esdras,1,1,58,Jerusalem/Judah,85%
+40,1 Esdras,2,1,30,Babylon/Persia,85%
+40,1 Esdras,3,1,24,Babylon/Persia,85%
+40,1 Esdras,4,1,63,Babylon/Persia,85%
+40,1 Esdras,5,1,73,Journey from Babylon to Jerusalem,80%
+40,1 Esdras,6,1,34,Jerusalem,90%
+40,1 Esdras,7,1,15,Jerusalem,90%
+40,1 Esdras,8,1,96,Jerusalem,90%
+40,1 Esdras,9,1,55,Jerusalem,90%
+41,2 Esdras,1,1,40,Jerusalem/Judah,85%
+41,2 Esdras,2,1,48,Jerusalem/Judah,85%
+41,2 Esdras,3,1,36,Babylon,85%
+41,2 Esdras,4,1,52,Babylon,85%
+41,2 Esdras,5,1,56,Babylon,85%
+41,2 Esdras,6,1,59,Babylon,85%
+41,2 Esdras,7,1,140,Babylon,85%
+41,2 Esdras,8,1,62,Babylon,85%
+41,2 Esdras,9,1,47,Babylon,85%
+41,2 Esdras,10,1,59,Babylon,85%
+41,2 Esdras,11,1,46,Babylon,85%
+41,2 Esdras,12,1,51,Babylon,85%
+41,2 Esdras,13,1,58,Babylon,85%
+41,2 Esdras,14,1,48,Babylon,85%
+41,2 Esdras,15,1,63,Various locations,75%
+41,2 Esdras,16,1,78,Various locations,75%
+42,Tobit,1,1,22,Nineveh/Assyria,85%
+42,Tobit,2,1,14,Nineveh/Assyria,85%
+42,Tobit,3,1,17,Nineveh/Ecbatana,85%
+42,Tobit,4,1,21,Nineveh/Assyria,85%
+42,Tobit,5,1,22,Nineveh/journey to Media,80%
+42,Tobit,6,1,19,Journey to Media,80%
+42,Tobit,7,1,17,Ecbatana/Media,85%
+42,Tobit,8,1,21,Ecbatana/Media,85%
+42,Tobit,9,1,6,Ecbatana/Media,85%
+42,Tobit,10,1,14,Ecbatana/Media,85%
+42,Tobit,11,1,19,Journey to Nineveh,80%
+42,Tobit,12,1,22,Nineveh/Assyria,85%
+42,Tobit,13,1,18,Nineveh/Assyria,85%
+42,Tobit,14,1,15,Nineveh/Ecbatana,85%
+43,Judith,1,1,16,Nineveh/Assyria,85%
+43,Judith,2,1,28,Assyrian empire,80%
+43,Judith,3,1,10,Assyrian empire,80%
+43,Judith,4,1,15,Judah/Jerusalem,90%
+43,Judith,5,1,24,Judah/Jerusalem,90%
+43,Judith,6,1,21,Judah/Jerusalem,90%
+43,Judith,7,1,32,Bethulia/Judah,85%
+43,Judith,8,1,36,Bethulia/Judah,85%
+43,Judith,9,1,14,Bethulia/Judah,85%
+43,Judith,10,1,23,Bethulia/Assyrian camp,85%
+43,Judith,11,1,23,Assyrian camp,85%
+43,Judith,12,1,20,Assyrian camp,85%
+43,Judith,13,1,20,Assyrian camp,85%
+43,Judith,14,1,19,Bethulia/Assyrian camp,85%
+43,Judith,15,1,14,Bethulia/surrounding region,85%
+43,Judith,16,1,25,Jerusalem/Judah,90%
+44,Esther (Greek),1,1,22,Susa/Persia,90%
+44,Esther (Greek),2,1,23,Susa/Persia,90%
+44,Esther (Greek),3,1,15,Susa/Persian empire,90%
+44,Esther (Greek),4,1,17,Susa/Persian empire,90%
+44,Esther (Greek),5,1,14,Susa/Persia,90%
+44,Esther (Greek),6,1,14,Susa/Persia,90%
+44,Esther (Greek),7,1,10,Susa/Persia,90%
+44,Esther (Greek),8,1,17,Susa/Persian empire,90%
+44,Esther (Greek),9,1,32,Susa/Persian empire,90%
+44,Esther (Greek),10,1,13,Susa/Persian empire,90%
+44,Esther (Greek),11,1,12,Susa/Persian empire,90%
+44,Esther (Greek),12,1,6,Susa/Persian empire,90%
+44,Esther (Greek),13,1,18,Persian empire,85%
+44,Esther (Greek),14,1,19,Susa/Persia,90%
+44,Esther (Greek),15,1,16,Susa/Persia,90%
+44,Esther (Greek),16,1,24,Persian empire,85%
+45,Malachi,1,1,14,Jerusalem/Judah,85%
+45,Malachi,2,1,17,Jerusalem/Judah,85%
+45,Malachi,3,1,18,Jerusalem/Judah,85%
+45,Malachi,4,1,6,Jerusalem/Judah,85%
+46,Matthew,1,1,25,Bethlehem/Nazareth,90%
+46,Matthew,2,1,12,Bethlehem,90%
+46,Matthew,2,13,15,Egypt,95%
+46,Matthew,2,16,18,Bethlehem,90%
+46,Matthew,2,19,23,Egypt/Nazareth,90%
+46,Matthew,3,1,17,Jordan River region,85%
+46,Matthew,4,1,11,Wilderness of Judea,80%
+46,Matthew,4,12,17,Capernaum/Galilee,90%
+46,Matthew,4,18,25,Sea of Galilee region,90%
+46,Matthew,5,1,48,Mount (Galilee region),85%
+46,Matthew,6,1,34,Mount (Galilee region),85%
+46,Matthew,7,1,29,Mount (Galilee region),85%
+46,Matthew,8,1,34,Capernaum/Galilee region,90%
+46,Matthew,9,1,38,Capernaum/Galilee region,90%
+46,Matthew,10,1,42,Galilee region,90%
+46,Matthew,11,1,30,Galilee region,90%
+46,Matthew,12,1,50,Galilee region,90%
+46,Matthew,13,1,58,Galilee region,90%
+46,Matthew,14,1,36,Galilee region,90%
+46,Matthew,15,1,39,Galilee/Tyre and Sidon region,85%
+46,Matthew,16,1,28,Caesarea Philippi region,85%
+46,Matthew,17,1,27,High mountain (Galilee region),80%
+46,Matthew,18,1,35,Capernaum,90%
+46,Matthew,19,1,30,Judea/Jordan region,85%
+46,Matthew,20,1,34,Journey to Jerusalem,80%
+46,Matthew,21,1,46,Jerusalem,95%
+46,Matthew,22,1,46,Jerusalem,95%
+46,Matthew,23,1,39,Jerusalem,95%
+46,Matthew,24,1,51,Jerusalem (Mount of Olives),90%
+46,Matthew,25,1,46,Jerusalem (Mount of Olives),90%
+46,Matthew,26,1,75,Jerusalem/Gethsemane,90%
+46,Matthew,27,1,66,Jerusalem (Golgotha),90%
+46,Matthew,28,1,20,Jerusalem/Galilee,85%
+47,Mark,1,1,45,Jordan River/Galilee region,85%
+47,Mark,2,1,28,Capernaum,90%
+47,Mark,3,1,35,Galilee region,90%
+47,Mark,4,1,41,Sea of Galilee,90%
+47,Mark,5,1,43,Gerasenes/Galilee region,85%
+47,Mark,6,1,56,Galilee region,90%
+47,Mark,7,1,37,Galilee/Tyre region,85%
+47,Mark,8,1,38,Galilee region,90%
+47,Mark,9,1,50,Galilee region,90%
+47,Mark,10,1,52,Judea/Jericho/Jerusalem journey,85%
+47,Mark,11,1,33,Jerusalem,95%
+47,Mark,12,1,44,Jerusalem,95%
+47,Mark,13,1,37,Jerusalem (Mount of Olives),90%
+47,Mark,14,1,72,Jerusalem/Gethsemane,90%
+47,Mark,15,1,47,Jerusalem (Golgotha),90%
+47,Mark,16,1,20,Jerusalem/Galilee,85%
+48,Luke,1,1,80,Judea/Jerusalem region,85%
+48,Luke,2,1,52,Bethlehem/Nazareth/Jerusalem,90%
+48,Luke,3,1,38,Jordan River region,85%
+48,Luke,4,1,44,Wilderness/Nazareth/Galilee,85%
+48,Luke,5,1,39,Galilee region,90%
+48,Luke,6,1,49,Galilee region,90%
+48,Luke,7,1,50,Galilee region,90%
+48,Luke,8,1,56,Galilee region,90%
+48,Luke,9,1,62,Galilee region,90%
+48,Luke,10,1,42,Galilee/Judea region,85%
+48,Luke,11,1,54,Galilee/Judea region,85%
+48,Luke,12,1,59,Galilee/Judea region,85%
+48,Luke,13,1,35,Galilee/Judea region,85%
+48,Luke,14,1,35,Galilee/Judea region,85%
+48,Luke,15,1,32,Galilee/Judea region,85%
+48,Luke,16,1,31,Galilee/Judea region,85%
+48,Luke,17,1,37,Galilee/Judea region,85%
+48,Luke,18,1,43,Judea/Jericho,85%
+48,Luke,19,1,48,Jericho/Jerusalem,90%
+48,Luke,20,1,47,Jerusalem,95%
+48,Luke,21,1,38,Jerusalem,95%
+48,Luke,22,1,71,Jerusalem,95%
+48,Luke,23,1,56,Jerusalem (Golgotha),90%
+48,Luke,24,1,53,Jerusalem/Emmaus,85%
+49,John,1,1,51,Jordan River/Galilee region,85%
+49,John,2,1,25,Cana/Jerusalem,90%
+49,John,3,1,36,Judea/Jordan region,85%
+49,John,4,1,54,Samaria/Galilee,85%
+49,John,5,1,47,Jerusalem,95%
+49,John,6,1,71,Galilee region,90%
+49,John,7,1,53,Jerusalem,95%
+49,John,8,1,59,Jerusalem,95%
+49,John,9,1,41,Jerusalem,95%
+49,John,10,1,42,Jerusalem/Jordan region,90%
+49,John,11,1,57,Bethany/Jerusalem region,90%
+49,John,12,1,50,Jerusalem,95%
+49,John,13,1,38,Jerusalem,95%
+49,John,14,1,31,Jerusalem,95%
+49,John,15,1,27,Jerusalem,95%
+49,John,16,1,33,Jerusalem,95%
+49,John,17,1,26,Jerusalem,95%
+49,John,18,1,40,Jerusalem/Gethsemane,90%
+49,John,19,1,42,Jerusalem (Golgotha),90%
+49,John,20,1,31,Jerusalem,95%
+49,John,21,1,25,Sea of Galilee,90%
+50,Acts,1,1,26,Jerusalem,95%
+50,Acts,2,1,47,Jerusalem,95%
+50,Acts,3,1,26,Jerusalem,95%
+50,Acts,4,1,37,Jerusalem,95%
+50,Acts,5,1,42,Jerusalem,95%
+50,Acts,6,1,15,Jerusalem,95%
+50,Acts,7,1,60,Jerusalem,95%
+50,Acts,8,1,8,Jerusalem/Judea,90%
+50,Acts,8,9,25,Samaria,85%
+50,Acts,8,26,40,Gaza road/Caesarea,85%
+50,Acts,9,1,9,Damascus road,85%
+50,Acts,9,10,25,Damascus,90%
+50,Acts,9,26,31,Jerusalem,95%
+50,Acts,9,32,43,Lydda/Joppa,85%
+50,Acts,10,1,48,Caesarea,85%
+50,Acts,11,1,18,Jerusalem,95%
+50,Acts,11,19,30,Antioch,85%
+50,Acts,12,1,25,Jerusalem,95%
+50,Acts,13,1,12,Antioch/Cyprus,85%
+50,Acts,13,13,52,Pisidian Antioch,80%
+50,Acts,14,1,28,Iconium/Lystra/Derbe,80%
+50,Acts,15,1,35,Jerusalem/Antioch,90%
+50,Acts,15,36,41,Antioch,85%
+50,Acts,16,1,10,Lystra/Troas,80%
+50,Acts,16,11,40,Philippi,85%
+50,Acts,17,1,15,Thessalonica/Berea,80%
+50,Acts,17,16,34,Athens,85%
+50,Acts,18,1,22,Corinth,85%
+50,Acts,18,23,28,Ephesus,85%
+50,Acts,19,1,41,Ephesus,85%
+50,Acts,20,1,16,Macedonia/Troas,80%
+50,Acts,20,17,38,Miletus,80%
+50,Acts,21,1,17,Tyre/Caesarea,85%
+50,Acts,21,18,40,Jerusalem,95%
+50,Acts,22,1,30,Jerusalem,95%
+50,Acts,23,1,35,Jerusalem/Caesarea,90%
+50,Acts,24,1,27,Caesarea,85%
+50,Acts,25,1,27,Caesarea,85%
+50,Acts,26,1,32,Caesarea,85%
+50,Acts,27,1,44,Sea voyage (Caesarea to Malta),75%
+50,Acts,28,1,31,Malta/Rome,80%
+51,Romans,1,1,32,Rome,90%
+51,Romans,2,1,29,Rome,90%
+51,Romans,3,1,31,Rome,90%
+51,Romans,4,1,25,Rome,90%
+51,Romans,5,1,21,Rome,90%
+51,Romans,6,1,23,Rome,90%
+51,Romans,7,1,25,Rome,90%
+51,Romans,8,1,39,Rome,90%
+51,Romans,9,1,33,Rome,90%
+51,Romans,10,1,21,Rome,90%
+51,Romans,11,1,36,Rome,90%
+51,Romans,12,1,21,Rome,90%
+51,Romans,13,1,14,Rome,90%
+51,Romans,14,1,23,Rome,90%
+51,Romans,15,1,33,Rome,90%
+51,Romans,16,1,27,Rome,90%
+52,1 Corinthians,1,1,31,Corinth,90%
+52,1 Corinthians,2,1,16,Corinth,90%
+52,1 Corinthians,3,1,23,Corinth,90%
+52,1 Corinthians,4,1,21,Corinth,90%
+52,1 Corinthians,5,1,13,Corinth,90%
+52,1 Corinthians,6,1,20,Corinth,90%
+52,1 Corinthians,7,1,40,Corinth,90%
+52,1 Corinthians,8,1,13,Corinth,90%
+52,1 Corinthians,9,1,27,Corinth,90%
+52,1 Corinthians,10,1,33,Corinth,90%
+52,1 Corinthians,11,1,34,Corinth,90%
+52,1 Corinthians,12,1,31,Corinth,90%
+52,1 Corinthians,13,1,13,Corinth,90%
+52,1 Corinthians,14,1,40,Corinth,90%
+52,1 Corinthians,15,1,58,Corinth,90%
+52,1 Corinthians,16,1,24,Corinth,90%
+53,2 Corinthians,1,1,24,Corinth,90%
+53,2 Corinthians,2,1,17,Corinth,90%
+53,2 Corinthians,3,1,18,Corinth,90%
+53,2 Corinthians,4,1,18,Corinth,90%
+53,2 Corinthians,5,1,21,Corinth,90%
+53,2 Corinthians,6,1,18,Corinth,90%
+53,2 Corinthians,7,1,16,Corinth,90%
+53,2 Corinthians,8,1,24,Corinth,90%
+53,2 Corinthians,9,1,15,Corinth,90%
+53,2 Corinthians,10,1,18,Corinth,90%
+53,2 Corinthians,11,1,33,Corinth,90%
+53,2 Corinthians,12,1,21,Corinth,90%
+53,2 Corinthians,13,1,13,Corinth,90%
+54,Galatians,1,1,24,Galatia,85%
+54,Galatians,2,1,21,Galatia,85%
+54,Galatians,3,1,29,Galatia,85%
+54,Galatians,4,1,31,Galatia,85%
+54,Galatians,5,1,26,Galatia,85%
+54,Galatians,6,1,18,Galatia,85%
+55,Ephesians,1,1,23,Ephesus,85%
+55,Ephesians,2,1,22,Ephesus,85%
+55,Ephesians,3,1,21,Ephesus,85%
+55,Ephesians,4,1,32,Ephesus,85%
+55,Ephesians,5,1,33,Ephesus,85%
+55,Ephesians,6,1,24,Ephesus,85%
+56,Titus,1,1,16,Crete,90%
+56,Titus,2,1,15,Crete,90%
+56,Titus,3,1,15,Crete,90%
+57,Philemon,1,1,25,Colossae,85%
+58,Hebrews,1,1,14,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,2,1,18,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,3,1,19,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,4,1,16,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,5,1,14,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,6,1,20,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,7,1,28,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,8,1,13,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,9,1,28,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,10,1,39,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,11,1,40,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,12,1,29,Unknown (likely Rome or Jerusalem),70%
+58,Hebrews,13,1,25,Unknown (likely Rome or Jerusalem),70%
+59,James,1,1,27,Unknown (likely Jerusalem or diaspora),65%
+59,James,2,1,26,Unknown (likely Jerusalem or diaspora),65%
+59,James,3,1,18,Unknown (likely Jerusalem or diaspora),65%
+59,James,4,1,17,Unknown (likely Jerusalem or diaspora),65%
+59,James,5,1,20,Unknown (likely Jerusalem or diaspora),65%
+60,1 Peter,1,1,25,Unknown (likely Rome),70%
+60,1 Peter,2,1,25,Unknown (likely Rome),70%
+60,1 Peter,3,1,22,Unknown (likely Rome),70%
+60,1 Peter,4,1,19,Unknown (likely Rome),70%
+60,1 Peter,5,1,14,Babylon (likely Rome),75%
+61,2 Peter,1,1,21,Unknown (likely Rome or Asia Minor),65%
+61,2 Peter,2,1,22,Unknown (likely Rome or Asia Minor),65%
+61,2 Peter,3,1,18,Unknown (likely Rome or Asia Minor),65%
+62,1 John,1,1,10,Unknown (likely Ephesus),70%
+62,1 John,2,1,29,Unknown (likely Ephesus),70%
+62,1 John,3,1,24,Unknown (likely Ephesus),70%
+62,1 John,4,1,21,Unknown (likely Ephesus),70%
+62,1 John,5,1,21,Unknown (likely Ephesus),70%
+63,2 John,1,1,13,Unknown (likely Ephesus),70%
+64,3 John,1,1,14,Unknown (likely Ephesus),70%
+65,Jude,1,1,25,Unknown (likely Palestine or Syria),65%
+66,Revelation,1,1,20,Patmos,95%
+66,Revelation,2,1,29,Patmos (visions of seven churches in Asia Minor),90%
+66,Revelation,3,1,22,Patmos (visions of seven churches in Asia Minor),90%
+66,Revelation,4,1,11,Patmos (heavenly visions),85%
+66,Revelation,5,1,14,Patmos (heavenly visions),85%
+66,Revelation,6,1,17,Patmos (heavenly visions),85%
+66,Revelation,7,1,17,Patmos (heavenly visions),85%
+66,Revelation,8,1,13,Patmos (heavenly visions),85%
+66,Revelation,9,1,21,Patmos (heavenly visions),85%
+66,Revelation,10,1,11,Patmos (heavenly visions),85%
+66,Revelation,11,1,19,Patmos (visions including Jerusalem),80%
+66,Revelation,12,1,17,Patmos (heavenly visions),85%
+66,Revelation,13,1,18,Patmos (visions of earthly powers),85%
+66,Revelation,14,1,20,Patmos (visions including Mount Zion),80%
+66,Revelation,15,1,8,Patmos (heavenly visions),85%
+66,Revelation,16,1,21,Patmos (visions of earth including Armageddon),80%
+66,Revelation,17,1,18,Patmos (visions of Babylon),85%
+66,Revelation,18,1,24,Patmos (visions of Babylon),85%
+66,Revelation,19,1,21,Patmos (heavenly visions),85%
+66,Revelation,20,1,15,Patmos (visions of final judgment),85%
+66,Revelation,21,1,27,Patmos (visions of New Jerusalem),80%
+66,Revelation,22,1,21,Patmos (visions of New Jerusalem),80%
