@@ -7,4 +7,4 @@ ASV
 
 For more info see the documents in the Metadata folder within this repo.
 
-Thank you and God bless -
+May God bless you and keep you. May His face shine upon you and give you peace -
