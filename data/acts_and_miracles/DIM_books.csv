@@ -1,0 +1,67 @@
+bookOrder,shortName,osisName,bookName,bookDiv,testament
+1,Ge,Gen,Genesis,Pentateuch,Old Testament
+2,Ex,Exod,Exodus,Pentateuch,Old Testament
+3,Le,Lev,Leviticus,Pentateuch,Old Testament
+4,Nu,Num,Numbers,Pentateuch,Old Testament
+5,Dt,Deut,Deuteronomy,Pentateuch,Old Testament
+6,Jos,Josh,Joshua,Historical,Old Testament
+7,Jdg,Judg,Judges,Historical,Old Testament
+8,Ru,Ruth,Ruth,Historical,Old Testament
+9,1Sa,1Sam,1 Samuel,Historical,Old Testament
+10,2Sa,2Sam,2 Samuel,Historical,Old Testament
+11,1Ki,1Kgs,1 Kings,Historical,Old Testament
+12,2Ki,2Kgs,2 Kings,Historical,Old Testament
+13,1Ch,1Chr,1 Chronicles,Historical,Old Testament
+14,2Ch,2Chr,2 Chronicles,Historical,Old Testament
+15,Ezr,Ezra,Ezra,Historical,Old Testament
+16,Ne,Neh,Nehemiah,Historical,Old Testament
+17,Es,Esth,Esther,Historical,Old Testament
+18,Job,Job,Job,Poetry-Wisdom,Old Testament
+19,Ps,Ps,Psalms,Poetry-Wisdom,Old Testament
+20,Pr,Prov,Proverbs,Poetry-Wisdom,Old Testament
+21,Ec,Eccl,Ecclesiastes,Poetry-Wisdom,Old Testament
+22,So,Song,Song of Solomon,Poetry-Wisdom,Old Testament
+23,Is,Isa,Isaiah,Major Prophets,Old Testament
+24,Je,Jer,Jeremiah,Major Prophets,Old Testament
+25,La,Lam,Lamentations,Poetry-Wisdom,Old Testament
+26,Eze,Ezek,Ezekiel,Major Prophets,Old Testament
+27,Da,Dan,Daniel,Major Prophets,Old Testament
+28,Ho,Hos,Hosea,Minor Prophets,Old Testament
+29,Joe,Joel,Joel,Minor Prophets,Old Testament
+30,Am,Amos,Amos,Minor Prophets,Old Testament
+31,Ob,Obad,Obadiah,Minor Prophets,Old Testament
+32,Jon,Jonah,Jonah,Minor Prophets,Old Testament
+33,Mic,Mic,Micah,Minor Prophets,Old Testament
+34,Na,Nah,Nahum,Minor Prophets,Old Testament
+35,Hab,Hab,Habakkuk,Minor Prophets,Old Testament
+36,Zep,Zeph,Zephaniah,Minor Prophets,Old Testament
+37,Hag,Hag,Haggai,Minor Prophets,Old Testament
+38,Zec,Zech,Zechariah,Minor Prophets,Old Testament
+39,Mal,Mal,Malachi,Minor Prophets,Old Testament
+40,Mt,Matt,Matthew,Gospels,New Testament
+41,Mk,Mark,Mark,Gospels,New Testament
+42,Lu,Luke,Luke,Gospels,New Testament
+43,Jn,John,John,Gospels,New Testament
+44,Ac,Acts,Acts,Acts,New Testament
+45,Ro,Rom,Romans,Pauline Epistles,New Testament
+46,1Co,1Cor,1 Corinthians,Pauline Epistles,New Testament
+47,2Co,2Cor,2 Corinthians,Pauline Epistles,New Testament
+48,Ga,Gal,Galatians,Pauline Epistles,New Testament
+49,Eph,Eph,Ephesians,Pauline Epistles,New Testament
+50,Php,Phil,Philippians,Pauline Epistles,New Testament
+51,Col,Col,Colossians,Pauline Epistles,New Testament
+52,1Th,1Thess,1 Thessalonians,Pauline Epistles,New Testament
+53,2Th,2Thess,2 Thessalonians,Pauline Epistles,New Testament
+54,1Ti,1Tim,1 Timothy,Pauline Epistles,New Testament
+55,2Ti,2Tim,2 Timothy,Pauline Epistles,New Testament
+56,Tit,Titus,Titus,Pauline Epistles,New Testament
+57,Phm,Phlm,Philemon,Pauline Epistles,New Testament
+58,Heb,Heb,Hebrews,Pauline Epistles,New Testament
+59,Jas,Jas,James,General Epistles,New Testament
+60,1Pe,1Pet,1 Peter,General Epistles,New Testament
+61,2Pe,2Pet,2 Peter,General Epistles,New Testament
+62,1Jn,1John,1 John,General Epistles,New Testament
+63,2Jn,2John,2 John,General Epistles,New Testament
+64,3Jn,3John,3 John,General Epistles,New Testament
+65,Jud,Jude,Jude,General Epistles,New Testament
+66,Re,Rev,Revelation,Revelation,New Testament
